@@ -17,6 +17,10 @@
 	"contributes": {
 		"commands": []
 	},
+	"repository": {
+    "type": "git",
+    "url": "git@github.com:ScenK/VSCodeWorkspaceLabel.git"
+  },
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
