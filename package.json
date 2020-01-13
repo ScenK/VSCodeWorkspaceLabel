@@ -2,9 +2,9 @@
 	"name": "workspace-label",
 	"displayName": "workspace-label",
 	"description": "Just a label shows the current workspace in the status bar.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "ScenK",
-	"icon": "./images/icon.png",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
