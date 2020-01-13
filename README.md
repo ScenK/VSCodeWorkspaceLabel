@@ -2,9 +2,10 @@
 
 It's just a small label on the bottom right showing the current workspace folder.
 
-## Release Notes
+![Screenshot](https://github.com/ScenK/VSCodeWorkspaceLabel/blob/master/images/Welcome.png)
 
-Users appreciate release notes as you update your extension.
+
+## Release Notes
 
 -----------------------------------------------------------------------------------------------------------
 
