@@ -2,7 +2,7 @@
 	"name": "workspace-label",
 	"displayName": "workspace-label",
 	"description": "Just a label shows the current workspace in the status bar.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "ScenK",
 	"icon": "images/icon.png",
 	"engines": {
