@@ -2,7 +2,7 @@
 	"name": "workspace-label",
 	"displayName": "workspace-label",
 	"description": "Just a label shows the current workspace in the status bar.",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "ScenK",
 	"icon": "images/icon.png",
 	"engines": {
@@ -20,7 +20,7 @@
 	},
 	"repository": {
     "type": "git",
-    "url": "git@github.com:ScenK/VSCodeWorkspaceLabel.git"
+    "url": "https://github.com/ScenK/VSCodeWorkspaceLabel"
   },
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
